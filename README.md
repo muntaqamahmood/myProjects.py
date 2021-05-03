@@ -1,4 +1,4 @@
-# private-projects
+# Pyhton-projects
 
 > project 1: A puzzle game with phrases consisting of 3 types of game modes: person vs person, person vs computer and a single player mode.
 
