@@ -5,7 +5,7 @@ import copy
 import math
 from typing import List, TextIO
 
-from constants import (ID, NAME, LATITUDE, LONGITUDE, CAPACITY,
+from project2_constants import (ID, NAME, LATITUDE, LONGITUDE, CAPACITY,
                        BIKES_AVAILABLE, DOCKS_AVAILABLE, IS_RENTING,
                        IS_RETURNING, NO_KIOSK_LABEL, EARTH_RADIUS,
                        SOUTH, NORTH, EAST, WEST, DIRECTIONS)
