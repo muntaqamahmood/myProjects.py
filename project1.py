@@ -1,7 +1,7 @@
 """Project 1 - Phrase Puzzler Program"""
 #author: Muntaqa Mahmood
 
-from constants import (CONSONANT_POINTS, VOWEL_PRICE, CONSONANT_BONUS,
+from project1_constants import (CONSONANT_POINTS, VOWEL_PRICE, CONSONANT_BONUS,
                        PLAYER_ONE, PLAYER_TWO, CONSONANT, VOWEL,
                        SOLVE, QUIT, HUMAN, HUMAN_HUMAN,
                        HUMAN_COMPUTER, EASY, HARD, ALL_CONSONANTS,
